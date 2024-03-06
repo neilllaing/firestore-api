@@ -29,3 +29,5 @@ jobs:
         gcloud auth configure-docker asia-east1-docker.pkg.dev
 
         gcloud builds submit --tag asia-east1-docker.pkg.dev/cxcxc-demo-2024-2-29-neill/flask-firestore-python-api/api:latest back-end/
+
+
